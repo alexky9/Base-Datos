@@ -16,7 +16,7 @@ public class Lenguajes {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Lenguajes de programación Orientados a Objetos enero 2014");
+       System.out.println("Lenguajes de programación Orientados a Objetos enero 2014, BIENVENIDOS!!");
     }
     
 }
