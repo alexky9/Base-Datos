@@ -1,6 +1,6 @@
 /*
  * En esta primer clase aprenderas lo siguiente
- 1. Abtrsaccion, encapsulamiento, clase miembros
+ 1. Abstraccion, encapsulamiento, clase miembros
  2. Creacion de objetos
  3. Creacion de constructores
  */
