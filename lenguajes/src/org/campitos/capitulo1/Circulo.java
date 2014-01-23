@@ -1,4 +1,4 @@
-/* Lunes  20 de enero
+/* Jueves  23 de enero
  * En esta primer clase aprenderas lo siguiente
  1. Abstraccion, encapsulamiento, clase miembros
  2. Creacion de objetos
