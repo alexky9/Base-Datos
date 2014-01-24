@@ -1,6 +1,0 @@
-Tarea 1: Entrega, Lunes 23 de Enero ( SI LO HACES ANTES DE ESA FECHA Y NO ES UNA COPIA DE ALGUIEN, HABRA PREMIOS 
-CANJEABLES EN EL EXAMEN PARCIAL!!!!!).
-En cada una de las clases Imagen, Tarjeta  y Usuario agrega miembros, y en cada una de ellas agrega 
-3 constructores explícitamente como mínimimo, en una clase que se llame Test implementa el método main y en ella crea objetos 
-  de cada una de las clases haciendo uso de los constructores, además invoca los métodos getters y setters de los estados de 
-los atributos e imprimelos en pantalla.
