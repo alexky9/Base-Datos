@@ -2,9 +2,11 @@ Tarea 1: Entrega, Domingo 23 ( SI LO HACES ANTES DE ESA FECHA Y NO ES UNA COPIA 
 CANJEABLES EN EL EXAMEN PARCIAL!!!!!).
 1. 
  Implementa en tu proyecto github  que creaste y clonaste en el netbeans el día lunes la clase Circulo y
- la clase TestCirculo, agrega el atributo radio que hicimos en la clase del jueves y en la de TestCirculo crea un objeto que se llame c,
+ la clase TestCirculo, agrega el atributo radio que hicimos en la clase del jueves y en la de 
+TestCirculo crea un objeto que se llame c,
 tal y como lo hicimos en la clase del jueves. Asignale un valor de 10 al radio e imprimerlo.
 
 LA SIGUIENTE ES LA PARTE QUE MAS VA A CONTAR DE LA TAREA: (LA ANTERIOR NO PORQUE LA HICE YO EN EL PIZARRON)
-Una vez hecho eso, trata de de hacer lo siguiente. Introduce codigo en la clase circulo para impedir que en la clase TestCirculo se metan radios negativos
+Una vez hecho eso, trata de de hacer lo siguiente. Introduce codigo en la clase circulo para impedir que en
+ la clase TestCirculo se metan radios negativos
 Trata de escribir ese codigo.
