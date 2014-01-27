@@ -1,8 +1,7 @@
-/* Jueves  23 de enero
+/* Lunes 27 de enero
  * En esta primer clase aprenderas lo siguiente
- 1. Abstraccion, encapsulamiento, clase miembros
- 2. Creacion de objetos
- 3. Creacion de constructores
+ 1. Encapsulamiento
+ 2. Creacion de constructores
  */
 
 package org.campitos.capitulo1;
