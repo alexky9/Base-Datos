@@ -8,4 +8,25 @@ Recuerda que las bases de todo lenguaje orientado a objetos son
                  entiendas ésto, en java 3 lo veremos muuuuuuuuuuuuucho!!!!!)
 
 2. REGLAS DEL ENCAPSULAMIENTO:
-    1. 
+    1. Agragar el modificador private a los atributos
+    2. Para ajustar el valor del atributo implementar un metodo de tipo set (setters)
+    3. Para obtener el valor del atributo implementar un metodo de tipo set (getters)
+     Ejemplo:
+
+public class Circulo {
+//1
+     private float radio;
+//2
+public void setRadio(float radio) {
+     
+    }
+//3
+    public float getRadio() {
+        return radio;
+    }
+
+    
+    
+    
+    
+} 
