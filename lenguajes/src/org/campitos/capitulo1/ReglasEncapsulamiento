@@ -1,0 +1,11 @@
+Recuerda que las bases de todo lenguaje orientado a objetos son
+1. ABSTRACCION: Limitar el dominio de un problema unica y exclusivamente a lo que indica 
+   el problema, es decir no quitarle ni ponerle nada que no se necesite
+2. ENCAPSULAMIENTO:Ocultamiento de la informacion que por seguiridad no debe estar expuesta a los usuarios terminales
+3. HERENCIA: Reutilizacion de código para evitar repetición
+4. POLIMORFISMO: Reutilizacion de código y versatilidad para aplicar la misma operación a
+                 multiples objetos diferenciandolos en tiempo de ejecucion (no importa que por ahora no
+                 entiendas ésto, en java 3 lo veremos muuuuuuuuuuuuucho!!!!!)
+
+2. REGLAS DEL ENCAPSULAMIENTO:
+    1. 
