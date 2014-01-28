@@ -10,3 +10,11 @@ LA SIGUIENTE ES LA PARTE QUE MAS VA A CONTAR DE LA TAREA: (LA ANTERIOR NO PORQUE
 Una vez hecho eso, trata de de hacer lo siguiente. Introduce codigo en la clase circulo para impedir que en
  la clase TestCirculo se metan radios negativos
 Trata de escribir ese codigo.
+
+Tarea 2. Fecha de entrega: JUEVES 30 DE ENERO. 
+ En la carpeta  capitulo1 vas a encontrar La clase Imagen, en ella
+         vas a agregar los artibutos alto, de tipo int , ancho de tipo int. Practicale el encapsulamiento  e impon la regla de
+         que los atributos no sean negativos (trasnformalos a positivos). Crear Una clase TestImagen con metodo main y en ella crea un objeto 
+        de tipo Imagen, asignale un valores negativos a alto y ancho y verifica que se cambien a positivos. E la clase Tarjeta implementa dos atributos, 
+        numeroTarjeta de tipo int y nombreCliente de tipo String.  Crea los metodos get y set correspondientes a cada atributo.
+        ¿Que tendrias que hacer para que  aarezca siempre el nombre "Juan" cuando no se le asigne nombre a un objeto de tipo Tarjeta?
