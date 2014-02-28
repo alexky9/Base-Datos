@@ -10,6 +10,11 @@ package org.campitos.capitulo3;
  *
  * @author campitos
  */
-public class EdadNegativaException {
+public class EdadNegativaException extends Exception{
+    
+    public EdadNegativaException(){
+        super("Lo siento pero esta bien chavito!!!");
+    }
+   
     
 }
