@@ -10,8 +10,10 @@ public abstract class Cuenta {
     
  
     private String nombre;
+    private float saldo;
     
-    public abstract void crearCuenta();
+    public abstract void crearCuenta()
+            throws CuentaSinfondosException;
     
     
     
@@ -26,6 +28,14 @@ public abstract class Cuenta {
 
     public void setNombre(String nombre) {
         this.nombre = nombre;
+    }
+
+    public float getSaldo() {
+        return saldo;
+    }
+
+    public void setSaldo(float saldo) {
+        this.saldo = saldo;
     }
     
 }

@@ -10,12 +10,11 @@ package org.campitos.capitulo2;
  *
  * @author campitos
  */
-public class CuentaAhorro extends Cuenta{
-
-   
-    public void crearCuenta() throws  CuentaSinfondosException{
-   ValidaCuenta.validarSaldo(getSaldo());
-        System.out.println("Estas creando una cuenta de ahorro");
+public class ValidaCuenta {
+    
+public static void validarSaldo(float s)
+throws CuentaSinfondosException {
+     if(s<0)throw new CuentaSinfondosException();
     }
-  
+    
 }

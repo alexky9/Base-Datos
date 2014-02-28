@@ -7,7 +7,7 @@
 package org.campitos.capitulo2;
 
 public class ProbarCuentas {
-   public static void main(String args[]){
+   public static void main(String args[])throws CuentaSinfondosException{
     
        Cuenta []cuentas=new Cuenta[6];
       cuentas[0]=new CuentaAhorro();
