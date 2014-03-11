@@ -12,6 +12,10 @@ package org.campitos.capitulo2;
  */
 public class CuentaAhorro extends Cuenta{
 
+    public CuentaAhorro(String nombre, float saldo) throws CuentaSinfondosException {
+        super(nombre, saldo);
+    }
+
    
     public void crearCuenta() throws  CuentaSinfondosException{
    ValidaCuenta.validarSaldo(getSaldo());

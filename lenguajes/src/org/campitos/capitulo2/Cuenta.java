@@ -7,6 +7,12 @@
 package org.campitos.capitulo2;
 
 public abstract class Cuenta {
+
+    public Cuenta(String nombre, float saldo) throws CuentaSinfondosException {
+        ValidaCuenta.validarSaldo(saldo);
+        this.nombre = nombre;
+        this.saldo = saldo;
+    }
     
  
     private String nombre;

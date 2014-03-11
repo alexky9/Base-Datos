@@ -11,6 +11,10 @@ package org.campitos.capitulo2;
  * @author campitos
  */
 public class CuentaCredito extends Cuenta {
+
+    public CuentaCredito(String nombre, float saldo) throws CuentaSinfondosException {
+        super(nombre, saldo);
+    }
    public void crearCuenta(){
    System.out.println("Esta ya es una cuenta de credita");
     }   
