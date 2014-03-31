@@ -17,7 +17,7 @@ public class TestCarritos {
      */
     public static void main(String[] args) {
            Carrito c1=new Carrito(0,0);
-        c1.start();
+        c1.start();  
     }
     
 }
